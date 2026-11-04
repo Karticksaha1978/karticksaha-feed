@@ -1,0 +1,74 @@
+{
+  "updated": "2026-11-04",
+  "newsletter": {
+    "name": "NextGen Bangladesh",
+    "url": "https://www.linkedin.com/newsletters/nextgen-bangladesh-7470796367649497090/",
+    "description": "Accelerating Bangladesh’s e-mobility decarbonisation, and strengthening it with intelligent automation."
+  },
+  "issues": [
+    {
+      "title": "Prompt Engineering Without Domain Knowledge",
+      "url": "https://www.linkedin.com/pulse/prompt-engineering-without-domain-knowledge-kartick-kumer-saha-h1ejc/",
+      "read": "1 min"
+    },
+    {
+      "title": "From Factory Acceptance to Partnership: Completing the FAT & PSI Mission at HD Hyundai, Korea",
+      "url": "https://www.linkedin.com/pulse/from-factory-acceptance-partnership-successfully-completing-saha-v3rkc/",
+      "read": "3 min"
+    },
+    {
+      "title": "AI Fluency is the New Literacy: Leadership Lessons from the AI Mastery Summit",
+      "url": "https://www.linkedin.com/pulse/ai-fluency-new-literacy-leadership-lessons-from-mastery-saha-vn5bc/",
+      "read": "2 min"
+    },
+    {
+      "title": "Driving Change: Reflections on Dhaka’s National E-Mobility Transition Workshop",
+      "url": "https://www.linkedin.com/pulse/driving-change-reflections-dhakas-national-e-mobility-saha-aatoc/",
+      "read": "3 min"
+    }
+  ],
+  "articles": [
+    {
+      "tag": "EV policy",
+      "title": "Accelerating Bangladesh’s Green Transition: EV & Transport Highlights from Budget 2026-27",
+      "summary": "Duty cuts, deregulation and tax incentives in the new national budget, and what they mean for electric vehicles and transport.",
+      "url": "https://www.linkedin.com/pulse/headline-accelerating-bangladeshs-green-transition-key-saha-ucffc/",
+      "read": "2 min"
+    },
+    {
+      "tag": "AI & leadership",
+      "title": "The Era of “Mythos Class” AI is Here: Why AI Literacy is No Longer Optional",
+      "summary": "Why Bangladeshi professionals can no longer treat AI literacy as a nice-to-have.",
+      "url": "https://www.linkedin.com/pulse/headline-era-mythos-class-ai-here-why-literacy-longer-saha-yiwec/",
+      "read": "3 min"
+    },
+    {
+      "tag": "AI & leadership",
+      "title": "AI Won’t Replace You, But It Will Expose Every Leader Who Isn’t Ready",
+      "summary": "AI literacy is becoming a core professional skill, and so is using AI responsibly to protect trust and create value.",
+      "url": "https://www.linkedin.com/pulse/ai-wont-replace-you-but-expose-every-leader-who-isnt-ready-saha-voaoc/",
+      "read": "4 min"
+    },
+    {
+      "tag": "EV mobility",
+      "title": "Bangladesh Just Made History: The World Should Be Paying Attention",
+      "summary": "A made-in-Bangladesh electric vehicle on the road, and a step closer to cleaner, more affordable transport.",
+      "url": "https://www.linkedin.com/pulse/bangladesh-just-made-history-world-should-paying-attention-saha-jzouc/",
+      "read": "2 min"
+    },
+    {
+      "tag": "EV & AI",
+      "title": "AI Fluency Is Bangladesh’s Most Powerful, and Most Overlooked, Green Mobility Asset",
+      "summary": "An open note to the ministries on why AI skills belong at the centre of the green mobility plan.",
+      "url": "https://www.linkedin.com/pulse/ai-fluency-bangladeshs-most-powerful-and-overlooked-green-saha-iosnc/",
+      "read": "4 min"
+    },
+    {
+      "tag": "EV policy",
+      "title": "The Cabinet Has Opened the Door. Now Who Walks Through It First?",
+      "summary": "EV school buses and light trucks: Bangladesh’s most actionable green mobility opportunities.",
+      "url": "https://www.linkedin.com/pulse/cabinet-has-opened-door-now-who-walks-through-first-saha-azfac/",
+      "read": "2 min"
+    }
+  ]
+}
