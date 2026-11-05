@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "newsletter": {
     "name": "NextGen Bangladesh",
     "url": "https://www.linkedin.com/newsletters/nextgen-bangladesh-7470796367649497090/",
@@ -70,5 +70,154 @@
       "url": "https://www.linkedin.com/pulse/cabinet-has-opened-door-now-who-walks-through-first-saha-azfac/",
       "read": "2 min"
     }
-  ]
+  ],
+  "projects": [],
+  "recommendations": [],
+  "known_projects": [
+    "Factory Acceptance Test & Pre-Shipment Inspection, HD Hyundai Xitesolution",
+    "Procurement of 300 Electric Single Decker AC Buses for BRTC",
+    "Strengthening HNS Group’s Competitive Advantage through Digital Innovation",
+    "MoU: HNS Group and Dockyard and Engineering Works Ltd (Bangladesh Navy)",
+    "Securing the Cold Chain for National Immunization",
+    "Procurement of 340 Single Decker AC CNG Buses for BRTC",
+    "Dolonchapa SafeMove: Women’s Dedicated Bus Service, Dhaka",
+    "Project 20.16: 360 Units of 16-Ton Trucks for BRTC",
+    "Volvo-Eicher 20.16 “Lakpoti Offer”",
+    "Roots & Roads: Volvo-Eicher Community Connect, Satkhira",
+    "Nationwide Dealer Network Expansion (Volvo-Eicher Trucks)",
+    "Customer Plant Visits: Eicher Trucks & Buses, Pithampur (India)"
+  ],
+  "known_recommenders": [
+    "Kwonchae Jeong",
+    "Uttam Kumer Saha",
+    "박병준 (Brian J. Park)",
+    "Satyajit Saha",
+    "Kamrul Hoque",
+    "Shantanu Srivastav",
+    "Pankaj Singh",
+    "Najmus Ahmed (Albab)",
+    "Kaushik Bhattacharya",
+    "Dileep Banerjee",
+    "Kanchan Saha",
+    "Matheendra De Zoysa",
+    "Ajoy Kumar Deb, PMP",
+    "Kanti Kumar Saha"
+  ],
+  "policy": {
+    "checked": "5 Nov 2026",
+    "diesel": {
+      "price": 135,
+      "since": "20 Sep 2026",
+      "source_name": "The Daily Star",
+      "source_url": "https://www.thedailystar.net/news/power-and-energy/news/fuel-prices-hiked-tk-20-litre-4278041"
+    },
+    "tariff": {
+      "peak": 14.2,
+      "off_peak": 10.22,
+      "super_off_peak": 9.09,
+      "flat": 11.36,
+      "since": "Jun 2026",
+      "source_name": "Daily Observer",
+      "source_url": "https://observerbd.com/news/578190"
+    },
+    "tabs": {
+      "duties": [
+        {
+          "text": "In May 2026 the cabinet cut the tax on new electric buses and trucks from as much as 61.8% to 15% VAT only, with customs, regulatory and supplementary duty, advance tax and advance income tax waived. Trucks qualify at 5 tonnes or more, buses at 17 seats or more.",
+          "source_name": "bdnews24",
+          "source_url": "https://bdnews24.com/business/024d45a39df2"
+        },
+        {
+          "text": "The FY2026-27 budget extends this relief for electric buses and trucks into the next decade. It waives duties on imported materials for local electric bus and truck makers (VAT still applies), and removes the 39.75% tax on imported EV chargers.",
+          "source_name": "Prothom Alo",
+          "source_url": "https://en.prothomalo.com/business/local/ltj9vwbv68"
+        },
+        {
+          "action": true,
+          "text": "make sure the HS code declared matches the commercial truck or bus classification, so the concession applies."
+        }
+      ],
+      "power": [
+        {
+          "text": "BERC’s EV and battery-charging tariff (from June 2026, low voltage): peak ৳14.20, off-peak ৳10.22, super off-peak ৳9.09 per unit; flat ৳11.36. 11 kV supply is a few paisa lower.",
+          "source_name": "Daily Observer",
+          "source_url": "https://observerbd.com/news/578190"
+        },
+        {
+          "text": "Diesel has been ৳135 a litre since 20 September 2026 (up from ৳115).",
+          "source_name": "The Daily Star",
+          "source_url": "https://www.thedailystar.net/news/power-and-energy/news/fuel-prices-hiked-tk-20-litre-4278041"
+        },
+        {
+          "action": true,
+          "text": "put depot chargers on a dedicated sub-meter and schedule charging in super off-peak hours."
+        }
+      ],
+      "batteries": [
+        {
+          "text": "The Hazardous Waste (E-waste) Management Rules, 2021 (Department of Environment) require producers, importers and recyclers to register with DoE and meet collection targets. EV traction batteries are not specifically listed, so contracts should set the terms.",
+          "source_name": "ChemLinked",
+          "source_url": "https://chemical.chemlinked.com/news/chemical-news/bangladesh-publishes-e-waste-management-rules"
+        },
+        {
+          "action": true,
+          "text": "write OEM take-back or buyback terms into the supply contract, and use only DoE-registered recyclers that issue recycling certificates for ESG audits."
+        }
+      ],
+      "finance": [
+        {
+          "text": "Bangladesh Bank cut the LC cash margin for car imports from 100% to a minimum of 50% from February 2025. For electric and hybrid vehicles, the margin is left to the bank and customer.",
+          "source_name": "The Daily Ittefaq",
+          "source_url": "https://en.ittefaq.com.bd/10237/bb-cuts-cash-margin-for-car-import-lcs"
+        },
+        {
+          "action": true,
+          "text": "agree LC margin and tenor with the bank early. Confirmed LCs plus OEM warranty and spare-parts guarantees reduce risk for both sides."
+        }
+      ]
+    },
+    "latest": [
+      {
+        "date": "20 Sep 2026",
+        "topic": "Fuel price",
+        "title": "Diesel raised by ৳20 to ৳135 a litre",
+        "summary": "Retail fuel prices rose ৳20 a litre across the board; octane is now ৳165.",
+        "source_name": "The Daily Star",
+        "source_url": "https://www.thedailystar.net/news/power-and-energy/news/fuel-prices-hiked-tk-20-litre-4278041"
+      },
+      {
+        "date": "Jun 2026",
+        "topic": "Duties & tax",
+        "title": "FY2026-27 budget extends EV incentives",
+        "summary": "Relief for electric buses and trucks extended; imported EV chargers freed from the 39.75% tax; duty waivers for local EV bus and truck makers.",
+        "source_name": "Prothom Alo",
+        "source_url": "https://en.prothomalo.com/business/local/ltj9vwbv68"
+      },
+      {
+        "date": "3 Jun 2026",
+        "topic": "Power tariff",
+        "title": "BERC sets EV charging tariff",
+        "summary": "Low-voltage EV and battery charging: ৳14.20 peak, ৳10.22 off-peak, ৳9.09 super off-peak per unit.",
+        "source_name": "Daily Observer",
+        "source_url": "https://observerbd.com/news/578190"
+      },
+      {
+        "date": "May 2026",
+        "topic": "Duties & tax",
+        "title": "Electric buses and trucks cut to 15% VAT",
+        "summary": "Cabinet waived customs, regulatory and supplementary duty and advance taxes on new electric buses (17+ seats) and trucks (5+ tonnes).",
+        "source_name": "bdnews24",
+        "source_url": "https://bdnews24.com/business/024d45a39df2"
+      },
+      {
+        "date": "Jan 2025",
+        "topic": "Trade finance",
+        "title": "LC cash margin for car imports eased",
+        "summary": "Bangladesh Bank cut the margin from 100% to a minimum of 50%; for electric and hybrid cars it is set by the bank and customer.",
+        "source_name": "The Daily Ittefaq",
+        "source_url": "https://en.ittefaq.com.bd/10237/bb-cuts-cash-margin-for-car-import-lcs"
+      }
+    ],
+    "pending": []
+  }
 }
